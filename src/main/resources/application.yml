@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      port: 27017
+      host: localhost
+      database: studi
+server:
+  port: 8080
